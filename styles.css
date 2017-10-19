@@ -1,0 +1,19 @@
+#playingField {
+  border: 3px solid black;
+  width: 250px;
+  height: 500px;
+}
+
+.shape {
+  border: 1px solid black;
+}
+
+#square {
+  width: 25px;
+  height: 25px;
+  background: green;
+}
+
+button {
+  height: 30px;
+}
